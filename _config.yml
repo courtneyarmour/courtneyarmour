@@ -31,9 +31,9 @@ plugins:
 
 # A list of the pages to display in the navigation bar
 header_pages:
-  - "sites/content/about.html"
-  - "sites/content/CV.html"
-  - "sites/content/contact.html"
+  - "pages/about.html"
+  - "pages/CV.html"
+  - "pages/contact.html"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
