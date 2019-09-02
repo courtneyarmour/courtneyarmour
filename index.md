@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Courtney Armour
+title: Courtney R Armour
 ---
-
+Computational Biologist
