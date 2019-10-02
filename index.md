@@ -19,6 +19,5 @@ title: Courtney R Armour, PhD Candidate
     	<div class="container">
         <img src="/content/images/circos.png" class="img-responsive" style="max-width:100%;height:auto;">
    	  </div>
-    </a>
    </div>
 </div>
