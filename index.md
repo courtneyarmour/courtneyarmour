@@ -4,6 +4,32 @@ title: Courtney R Armour, PhD Candidate
 ---
 <h2>Computational Biologist<h2>
 
+
+<style>
+.container {
+  position: relative;
+  width: 100%;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+@media screen and (max-width: 500px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+
 <div class="row"> 
   <div class="column">
   	  <div class="container">
