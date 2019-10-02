@@ -4,5 +4,21 @@ title: Courtney R Armour, PhD Candidate
 ---
 <h2>Computational Biologist<h2>
 
-<img src="/content/images/circos.png" class="img-fluid" alt="Circos" style="width:100%;max-width:600px">
-
+<div class="row"> 
+  <div class="column">
+  	  <div class="container">
+        <img src="/content/images/circos.png" class="img-responsive" style="max-width:100%;height:auto;">
+  	  </div>
+   </div>
+  <div class="column"> 
+      <div class="container">
+        <img src="/content/images/circos.png" class="img-responsive" style="max-width:100%;height:auto;">
+  	  </div>
+  </div>
+  <div class="column">
+    	<div class="container">
+        <img src="/content/images/circos.png" class="img-responsive" style="max-width:100%;height:auto;">
+   	  </div>
+    </a>
+   </div>
+</div>
