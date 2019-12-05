@@ -38,7 +38,9 @@ title: Courtney R Armour, PhD Candidate
    </div>
   <div class="column"> 
       <div class="container">
+        <a href="/pages/research.html#r1">
         <img src="/content/images/circos.png" class="img-responsive" style="max-width:100%;height:auto;">
+        </a>
   	  </div>
   </div>
   <div class="column">
