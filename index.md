@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Courtney R Armour, PhD Candidate
+title: Courtney R Armour
+PhD Candidate
 ---
 
 
