@@ -3,7 +3,7 @@ layout: page
 title: Courtney R Armour PhD
 ---
 
-
+<h2>Computational Biologist</h2>
 
 <style>
 .container {
